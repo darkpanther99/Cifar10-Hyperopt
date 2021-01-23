@@ -5,4 +5,4 @@ The task was to use an automatic hyperparameter optimizer package to optimize a 
 
 I used the Keras-Tuner package.
 
-The results and the code can be seen and read in the .ipynb file, which can also be ran in a Jupyter Notebook interface(e.g. Google Colab) if wanted.
+The results and the code can be seen and read in the <a href="https://github.com/darkpanther99/Cifar10-Hyperopt/blob/main/Hyperopt_task.ipynb">.ipynb file</a>, which can also be ran in a Jupyter Notebook interface(e.g. Google Colab) if wanted.
